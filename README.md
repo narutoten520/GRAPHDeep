@@ -26,14 +26,24 @@ Graph deep learning has been regarded as a promising methodology to address gene
 ### Example usage
 * Selecting GNNs for spatial clustering task in DGI module
   ```sh
-    running 
+    running DGI Example_DLPFC.ipynb to see the simulation results step by step
   ```
- * Selecting GNNs for spatial clustering task in VGAE module
+* Selecting GNNs for spatial clustering task in VGAE module
   ```sh
-    npm install npm@latest -g
+    running VGAE Example_DLPFC.ipynb to see the simulation results step by step
   ```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### License
 
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Trouble shooting
 
+* data files<br>
+Please down load the spatial transcriptomics data from the provided links.
+
+* Porch_pyg<br>
+Please follow the instruction to install pyG and geometric packages.
