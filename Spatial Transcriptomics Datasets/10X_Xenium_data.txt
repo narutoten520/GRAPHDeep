@@ -1,0 +1,5 @@
+Please use the below two links to reach 10X Xenium data:
+
+https://www.10xgenomics.com/products/xenium-in-situ/preview-dataset-human-breast
+
+https://squidpy.readthedocs.io/en/stable/external_tutorials/tutorial_xenium.html

@@ -1,0 +1,6 @@
+Please install scanpy and squidpy first!
+
+import squidpy as sq
+import scanpy as sc
+adata = sq.datasets.visium_hne_adata()
+img = sq.datasets.visium_hne_image()

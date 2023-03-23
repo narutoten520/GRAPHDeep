@@ -1,0 +1,8 @@
+Please install Squidpy and Scanpy first!
+
+import squidpy as sq
+import scanpy as sc
+
+adata = sq.datasets.slideseqv2() 
+adata.var_names_make_unique() 
+adata

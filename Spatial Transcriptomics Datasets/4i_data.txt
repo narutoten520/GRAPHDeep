@@ -1,0 +1,5 @@
+Please use the following two links to get the spatial protein data:
+
+4i: https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_fouri.html
+
+MIBI-TOF: https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_mibitof.html

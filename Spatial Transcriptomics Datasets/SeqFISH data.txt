@@ -1,0 +1,7 @@
+Please install Squidpy and Scanpy first!
+
+import scanpy as sc
+import squidpy as sq
+
+adata = sq.datasets.seqfish()
+adata.var_names_make_unique()

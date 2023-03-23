@@ -1,0 +1,6 @@
+#Please install Squidpy and Scanpy first!
+
+import squidpy as sq
+import scanpy as sc
+
+adata = sq.datasets.mibitof()
