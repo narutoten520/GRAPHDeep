@@ -13,7 +13,7 @@ Graph deep learning has been regarded as a promising methodology to address gene
 * [Example usage](https://github.com/narutoten520/GRAPHDeep/edit/main/README.md#example-usage)
 * [Benchmarking methods](https://github.com/narutoten520/GRAPHDeep#benchmarking-methods)
 * [License](https://github.com/narutoten520/GRAPHDeep/blob/main/README.md#license)
-* 
+* [Datasets Availability](https://github.com/narutoten520/GRAPHDeep/blob/main/README.md#datasets-availability)
 * [Trouble shooting](https://github.com/narutoten520/GRAPHDeep/edit/main/README.md#trouble-shooting)
 
 ### Prerequisites
