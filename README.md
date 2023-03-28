@@ -53,7 +53,20 @@ Benchmarking methods used in this paper include:
 * [SpaGCN](https://github.com/jianhuupenn/SpaGCN)
 * [stLearn](https://github.com/BiomedicalMachineLearning/stLearn)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Datasets Availability
+* [Spatial protein: 4i](https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_fouri.html)
+* [Spatial protein: MIBI-TOF](https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_mibitof.html)
+* [10X Xenium](https://squidpy.readthedocs.io/en/stable/external_tutorials/tutorial_xenium.html)
+* [Human DLPFC](https://github.com/LieberInstitute/spatialLIBD)
+* [MERFISH](https://www.spatialomics.org/SpatialDB/download/merfish_30385464.tar.gz)
+* [Mouse brain](https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_visium_hne.html)
+* [SeqFISH](https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_seqfish.html)
+* [Slide-seqV2](https://squidpy.readthedocs.io/en/stable/auto_tutorials/tutorial_slideseqv2.html)
+* [STAR-map](https://stagate.readthedocs.io/en/latest/T9_STARmap.html)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ### License
