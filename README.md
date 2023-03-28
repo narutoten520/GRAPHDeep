@@ -11,6 +11,8 @@ Graph deep learning has been regarded as a promising methodology to address gene
 ## Contents
 * [Prerequisites](https://github.com/narutoten520/GRAPHDeep/edit/main/README.md#prerequisites)
 * [Example usage](https://github.com/narutoten520/GRAPHDeep/edit/main/README.md#example-usage)
+* [Benchmarking methods](https://github.com/narutoten520/GRAPHDeep/edit/main/README.md#benchmarking-methods)
+* 
 * [Trouble shooting](https://github.com/narutoten520/GRAPHDeep/edit/main/README.md#trouble-shooting)
 
 ### Prerequisites
@@ -38,6 +40,20 @@ Graph deep learning has been regarded as a promising methodology to address gene
     running VGAE Example_DLPFC.ipynb to see the simulation results step by step
   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Benchmarking methods
+Benchmarking methods used in this paper include: 
+* [BayesSpace](https://github.com/edward130603/BayesSpace)
+* [CCST](https://github.com/xiaoyeye/CCST)
+* [DeepST](https://github.com/JiangBioLab/DeepST)
+* [Scanpy](https://github.com/scverse/scanpy)
+* [SEDR](https://github.com/JinmiaoChenLab/SEDR/)
+* [STAGATE](https://github.com/zhanglabtools/STAGATE)
+* [SpaGCN](https://github.com/jianhuupenn/SpaGCN)
+* [stLearn](https://github.com/BiomedicalMachineLearning/stLearn)
+
+### Datasets Availability
+
 
 ### License
 
